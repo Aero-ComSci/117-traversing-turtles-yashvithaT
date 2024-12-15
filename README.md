@@ -31,6 +31,7 @@ Step 18
 
 ## Questions about the Activity as you work. 
 ```
+Is there more than one way to get the program to achieve the task?
 
 ```
 #### Description Of The App 
