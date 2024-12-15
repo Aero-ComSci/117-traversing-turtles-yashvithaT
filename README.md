@@ -41,3 +41,4 @@ This program utilizes lists to pick specific shapes or colors for the turtles. T
 ```
 # Include a video of the result of the code at speed 0 or Fast. Be sure to make it available for me to see.
 ## For Regrades use the Feedback and @baeztheprog on your commit messages.
+[Screen recording 2024-12-14 8.36.02 PM.webm](https://github.com/user-attachments/assets/6fee4e7b-e552-43a8-b63d-c2c029c5b938)
