@@ -19,7 +19,7 @@ Follow the instructions on the book
 Data Structure to store the turtles
 Data Structure to store the colors
 A public method that contains a loop to iterate through the data structure.
-An __str__ method on the class to print out step 6 -- for the turles, what specific information would be useful?
+An __str__ method on the class to print out step 6 -- for the turtles, what specific information would be useful?
 An __init__ method to set the turtles to the data structure
 Be sure include error checks and documentation on the read me to utilize the class you create.
  
@@ -32,10 +32,12 @@ Step 18
 ## Questions about the Activity as you work. 
 ```
 Is there more than one way to get the program to achieve the task?
+Hos could I add complexity to this program?
 
 ```
 #### Description Of The App 
-
-`
+```
+This program utilizes lists to pick specific shapes or colors for the turtles. They move forward and turn based on a certain distance that they were given and everytime another turtle is added, 5 units are added to how much the turtle moves forward. This creates a spiral shape since the distance increases each time. The shape and color change each time and the program maintains complexity as it utilizes a variety of unique colors and shapes.
+```
 # Include a video of the result of the code at speed 0 or Fast. Be sure to make it available for me to see.
 ## For Regrades use the Feedback and @baeztheprog on your commit messages.
